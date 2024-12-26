@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/serhatkaya68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serhatkaya68" height="30" width="40" /></a>
-</p>
+
 <a href="https://medium.com/@serhatkaya6851" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/02_White/PNG/RGB/Medium-Symbol-White-RGB%401x.png" alt="https://medium.com/@serhatkaya6851" height="30" width="40" /></a>
 </p>
 

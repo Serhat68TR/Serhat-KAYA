@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/serhatkaya68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serhatkaya68" height="30" width="40" /></a>
 </p>
-<a href="https://medium.com/@serhatkaya6851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://medium.com/@serhatkaya6851" height="30" width="40" /></a>
+<a href="https://medium.com/@serhatkaya6851" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/JPG/RGB/Medium-Logo-Black-RGB%402x.jpg" alt="https://medium.com/@serhatkaya6851" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
